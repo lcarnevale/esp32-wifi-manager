@@ -1,6 +1,6 @@
 # ESP32 WiFi Manager Component
 
-This project includes the WiFi Manager component based on the [Espressif IoT Development Framework (esp-idf)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html), and it is intened to work on the ESP32 and ESP32-S Series SoCs.
+This project includes the WiFi Manager component based on the [Espressif IoT Development Framework (esp-idf)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html), and it is intended to work on the ESP32 and ESP32-S Series SoCs.
 
 
 
