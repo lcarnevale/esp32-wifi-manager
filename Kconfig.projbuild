@@ -1,0 +1,21 @@
+menu "WiFi Manager Config"
+
+    config LOGGING_TAG
+        string "Logging TAG"
+        default "WIFI_MANAGER"
+        help
+            The TAG string that identifies the running logging system.
+
+    config WIFI_SSID
+        string "WiFi SSID"
+        default "MartinRouterKingGuest"
+
+    config WIFI_PASS
+        string "WiFi Password"
+        default "amezzanottesaicheiotitrovero!"
+
+    config WIFI_MAXIMUM_RETRY
+        string "Maximum Retry"
+        default 5
+
+endmenu
