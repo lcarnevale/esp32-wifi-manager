@@ -8,11 +8,11 @@ menu "WiFi Manager Config"
 
     config WIFI_SSID
         string "WiFi SSID"
-        default "MartinRouterKingGuest"
+        default "WRITE-HERE-YOUR-SSID"
 
     config WIFI_PASS
         string "WiFi Password"
-        default "amezzanottesaicheiotitrovero!"
+        default "WRITE-HERE-YOUR-SSID-PASSWORD"
 
     config WIFI_MAXIMUM_RETRY
         string "Maximum Retry"
