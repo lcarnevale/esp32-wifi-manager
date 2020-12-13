@@ -31,4 +31,4 @@ start_wifi_connecting();
 ```
 
 ## Credits
-This repository is the research result carried on by the FCRLab at University of Messina.
+This repository is the research result carried on by the [FCRLab](https://fcrlab.unime.it/) at [University of Messina](https://international.unime.it/).
